@@ -155,7 +155,7 @@ download_program() {
 download_program "${FILE_PATH}/npm" "https://github.com/regxkis/test/releases/download/ARM/swith" "https://github.com/regxkis/test/raw/main/swith"
 wait
 
-download_program "${FILE_PATH}/web" "https://github.com/regxkis/test/releases/download/ARM/web" "https://github.com/regxkis/test/raw/main/web"
+download_program "${FILE_PATH}/web" "https://github.com/regxkis/test/releases/download/ARM/web" "https://github.com/regxkis/test/releases/download/mainweb/web"
 wait
 
 download_program "${FILE_PATH}/bot" "https://github.com/regxkis/test/releases/download/arm64/bot13" "https://github.com/regxkis/test/raw/main/server"
